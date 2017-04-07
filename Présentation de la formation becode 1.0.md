@@ -40,7 +40,7 @@ Les liens :
 [Voici le site ryver.com](https://ryver.com/)
 
 
-[Voici le site becode.org](http://register.becode.org/)
+[Voici le site google.be](https://www.google.be/)
 
 
 ![Texte alternatif si l'image ne s'affiche pas](https://niocode.com/wp-content/uploads/2017/03/html.jpg)
