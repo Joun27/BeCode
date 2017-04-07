@@ -57,6 +57,6 @@ Les liens :
 ![](https://niocode.com/wp-content/uploads/2017/03/html.jpg)
 
 
-![](https://packagecontrol.io/readmes/img/164effb01cce178044295fac1c4cb47c314aa764.gif)
+![](http://i.imgur.com/epaVROW.gif)
 
 Dévelopeur : Team Habib, Geoffrey, Santi.
