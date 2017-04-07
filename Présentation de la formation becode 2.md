@@ -51,7 +51,7 @@ Le lien vers site internet de BeCode
 ![Texte alternatif si l'image ne s'affiche pas](/chemin/image.jpg "Titre optionnel")
 
 
-![](http://i.imgur.com/60bts.gif)
+![](http://nickbriz.com/wired/images/diagram3.gif)
 
 ![](http://i.imgur.com/60bts.gif)
 
