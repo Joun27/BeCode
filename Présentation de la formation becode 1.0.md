@@ -57,6 +57,6 @@ Les liens :
 ![](http://usabilitygeek.com/wp-content/uploads/2012/04/HTML-Guidelines-for-Usability-SEO.jpg)
 
 
-![](http://nickbriz.com/wired/images/diagram3.gif)
+![](https://packagecontrol.io/readmes/img/164effb01cce178044295fac1c4cb47c314aa764.gif)
 
 Dévelopeur : Team Habib, Geoffrey, Santi.
