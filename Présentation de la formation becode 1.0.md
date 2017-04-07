@@ -46,4 +46,4 @@ Le lien vers site internet de BeCode
 
 ![](http://nickbriz.com/wired/images/diagram3.gif)
 
-dévelopeur : Habib, Geoffrey, Santi.
+Dévelopeur : Team Habib, Geoffrey, Santi.
