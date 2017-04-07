@@ -1,6 +1,7 @@
 # Becode
 ## Un environnement Optimisé Pour l'Apprentissage
-
+:smile:
+:smile:
     une liste à puces
     une liste numérotée
     4 niveaux de titres
