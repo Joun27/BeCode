@@ -27,6 +27,17 @@ La formation :
 #### Module 3. Back-end
 ##### Module 4. Insertion proféssionnelle
 
+Quelque valeurs utiles a l'apprentissage
+
+Les valeurs :
+
+# De bonne sources d'informations
+## La répétitions des exercices
+# De la créativité
+## le travail de groupe
+# De l'autodiscipline
+## La motivation
+
 Les liens vers des site internet en lien avec la formation de BeCode
 
 Les liens :
