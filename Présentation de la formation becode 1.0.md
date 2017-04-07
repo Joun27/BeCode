@@ -1,6 +1,6 @@
-![](http://www.gif.ovh/french-gif/Informaticien%20Gif/Informaticien%20Gif%20(23).gif)
-
 Présentation de la formation BeCode
+
+![](http://www.gif.ovh/french-gif/Informaticien%20Gif/Informaticien%20Gif%20(23).gif)
 
 Une formation qui mais en valeurs les notions de :
 
