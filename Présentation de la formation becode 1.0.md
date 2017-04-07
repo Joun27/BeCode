@@ -54,7 +54,7 @@ Les liens :
 [Voici le site google.be](https://www.google.be/)
 
 
-![Texte alternatif si l'image ne s'affiche pas](https://niocode.com/wp-content/uploads/2017/03/html.jpg)
+![](http://usabilitygeek.com/wp-content/uploads/2012/04/HTML-Guidelines-for-Usability-SEO.jpg)
 
 
 ![](http://nickbriz.com/wired/images/diagram3.gif)
