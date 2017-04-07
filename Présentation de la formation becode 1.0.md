@@ -29,13 +29,15 @@ La formation :
 
 Les liens vers des site internet en lien avec la formation de BeCode
 
+Les liens :
+
 [Voici le site becode.org](http://register.becode.org/)
 
 
 [Voici le site github.com](https://github.com/)
 
 
-[Voici le site becode.org](http://register.becode.org/)
+[Voici le site ryver.com](https://ryver.com/)
 
 
 [Voici le site becode.org](http://register.becode.org/)
